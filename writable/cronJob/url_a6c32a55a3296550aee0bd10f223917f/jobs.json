@@ -1,0 +1,14 @@
+[
+    {
+        "name": "url_a6c32a55a3296550aee0bd10f223917f",
+        "type": "url",
+        "action": "https:\/\/absensikaryawan.web.id\/qr\/create",
+        "environment": "[]",
+        "start_at": "2022-11-12 10:00:02",
+        "end_at": "2022-11-12 10:00:04",
+        "duration": "00:00:02",
+        "output": "Create QR Successfully",
+        "error": "null",
+        "test_time": null
+    }
+]
